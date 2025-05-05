@@ -9,6 +9,6 @@ lolMiner.exe ^
   --intensity 20 ^
   --fanmin 50 ^
   --fanmax 80
-echo [ %DATE% %TIME% ] lolMiner çöktü, 10 sn sonra yeniden başlatılıyor...
+echo [ %DATE% %TIME% ] lolMiner crashed, restarting after 10 seconds...
 timeout /t 10 /nobreak >nul
 goto RESTART
