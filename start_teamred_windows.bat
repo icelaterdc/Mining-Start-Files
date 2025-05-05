@@ -1,5 +1,5 @@
 @echo off
-title TeamRedMiner ERGO Miner (Windows)
+title TeamRedMiner ERGO Miner
 :RESTART
 teamredminer.exe ^
   -a ERGO ^
