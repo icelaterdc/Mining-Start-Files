@@ -1,5 +1,3 @@
-# Mining-Start-Files
-
 Ergo Mining Scripts – TeamRedMiner & lolMiner
 =============================================
 
