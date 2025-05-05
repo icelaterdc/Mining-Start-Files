@@ -128,6 +128,6 @@ For other issues, refer to official miner documentation.
 ────────────────────────────────────────────────────
 Maintained by IceLater.  
 For updates or contributions, visit:  
-https://github.com/YourGitHubUsername/ergo-mining-scripts  
+https://github.com/icelaterdc/Mining-Start-Files.git
 
 Thank you for using these scripts. Happy mining!
