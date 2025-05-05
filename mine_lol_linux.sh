@@ -1,6 +1,6 @@
 while true; do
   ./lolMiner \
-    --algo AUTOLYKOS2 \
+    --algo ERGO \
     --pool erg.2miners.com:8888 \
     --user YOUR_WALLET_ADDRESS.worker1 \
     --pass x \
