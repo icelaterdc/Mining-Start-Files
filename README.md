@@ -4,7 +4,7 @@ Ergo Mining Scripts – TeamRedMiner & lolMiner
 Author: IceLater  
 Disclaimer: These scripts are provided by IceLater. We are not affiliated with TeamRedMiner, lolMiner, 2Miners, or any other third-party software or pool services. Use at your own risk.
 
-*✍️ IMPORTANT NOTE:* These files show how to incorporate the Ergo coin. If you want to mine a different coin, you can change the parameters, `-a` for TeamRedMiner and `-algo` for lolMiner in the initialization files.
+*✍️ IMPORTANT NOTE:* These files show how to incorporate the Ergo coin. If you want to mine a different coin, you can change the parameters, `-a` & `-o` for TeamRedMiner and `-algo` & `-pool` for lolMiner in the initialization files.
 
 ────────────────────────────────────────────────────
 CONTENTS
